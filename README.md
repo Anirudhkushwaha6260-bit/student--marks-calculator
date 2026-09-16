@@ -1,5 +1,6 @@
 
-Student Marks Calculator 📊
+Student Marks Calculator 
+📊
 
 A simple Python project that calculates a student's total marks and percentage.
 
