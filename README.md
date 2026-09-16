@@ -1,5 +1,6 @@
 
 Student Marks Calculator 
+
 📊
 
 A simple Python project that calculates a student's total marks and percentage.
@@ -21,8 +22,8 @@ Run the "main.py" file using a Python compiler or Python environment.
 
 Example
 
-Student Name: Anirudh
-Total Marks: 270
+Student Name: Anirudh,
+Total Marks: 270,
 Percentage: 90.0%
 
 Future Improvements
